@@ -1,7 +1,7 @@
 name: Delta Dev
 favicon: null
-layout_spectrum: 0.6814764435403049
-typography_spectrum: 0.5889208244625479
+layout_spectrum: 0
+typography_spectrum: 0.27349
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2f2f2f'
+    - '#71cac7'
+    - '#568c8a'
+    - '#fcfcfc'
+    - '#a1a1a1'
   brandStrength: 0.3966032250318676
   lightness: 0.0749541234690696
   saturation: 0.6933527877554297
