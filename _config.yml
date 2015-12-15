@@ -2,6 +2,7 @@ name: Delta Dev
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.27349
+title: Delta Dev
 cta:
   domain: null
   bucket: null
